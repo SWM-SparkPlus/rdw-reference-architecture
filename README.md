@@ -10,6 +10,10 @@ As data-based decision making is in full swing, the demand for real-time data pr
 
 In response, the SPARK+ team discloses the architecture of the RDW that the data organization has built. It is implemented as free, scalable, and replaceable open sources in its infrastructure, which aims to serve the public interest so that any organization can start analyzing data at low cost.
 
+## Goal
+
+The SPARK+ team aims to contribute to enabling more organizations to make data-driven decisions through the release of reference architectures. In addition, we hope that you will configure an architecture that fits your domain and context with a variety of infrastructure and technology sets, not just the reference architecture.
+
 ## On-premise RDW example
 
 ![](./images/rdw-ref-arch-onprem-eng.png)
