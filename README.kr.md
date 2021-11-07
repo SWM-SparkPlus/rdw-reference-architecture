@@ -30,6 +30,7 @@
   - 비용: **$450.56**
 - (MSK) Managed Kafka
   - 2 broker, 500GB per broker(auto scaling)
+    - Brokers' CPU usage avg: 8-10%
   - 비용: **$490.81**
 - ELK
   - c4.xlarge

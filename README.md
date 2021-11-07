@@ -33,6 +33,7 @@ In this example, it is an architecture that processed more than 10000/s of data,
   - Pricing: **$450.56**
 - (MSK) Managed Kafka
   - 2 broker, 500GB per broker(auto scaling)
+    - Brokers' CPU usage avg: 8-10%
   - Pricing: **$490.81**
 - ELK
   - c4.xlarge
