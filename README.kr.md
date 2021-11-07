@@ -1,6 +1,4 @@
 # rdw-reference-architecture
-An architecture for realtime bigdata analysis.
-
 빅데이터 분석을 위한 RDW(Realtime Data Warehouse) 아키텍처입니다.
 
 ## 개요
@@ -24,7 +22,7 @@ An architecture for realtime bigdata analysis.
 - **총 비용: $1251.4**
 - 데이터베이스
   - EC2 8vCPU, 32GB RAM, 단일 인스턴스 
-  - **$194.92**
+  - 비용: **$194.92**
 - 데이터 처리: EMR cluster(Apache Spark)
   - r5.xlarge
     - 4 vCPU, 32GB RAM, 1마스터-2코어 노드
